@@ -1,0 +1,20 @@
+{
+  "name": "archive-forever",
+  "description": "Blockchain WGET",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "keywords": [
+    "metadisk archive",
+    "metadisk wget"
+  ],,
+  "dependencies": {
+    "metadisk": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/IVGA/Archive.forever.git"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  }
+}
